@@ -1,0 +1,29 @@
+.Recipes {
+    color: blue;
+}
+.ul {
+    display: inline;
+    justify-content: left;
+    list-style: none;
+}
+.ul li {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    border-style: solid;
+    padding-top: 20px;
+    padding: 10px;
+}
+.Lasagna {
+    background-color: rgb(0, 255, 42);
+    border-color: rgb(20, 169, 0);
+}
+.BeefWellington {
+    background-color: rgb(255, 0, 195);
+    border-color: rgb(15, 0, 226);
+}
+.Spaghetti {
+    background-color: rgb(255, 0, 0);
+    border-color: rgb(177, 0, 0);
+}

@@ -1,0 +1,57 @@
+.Recipe1,
+.fig1,
+.ingredients1,
+.steps1 {
+    color: rgb(0, 136, 255);
+}
+.Recipe2,
+.fig2,
+.ingredients2,
+.steps2 {
+    color: rgb(255, 0, 230);
+}
+.Recipe3,
+.fig3,
+.ingredients3,
+.steps3 {
+    color: rgb(255, 170, 0);
+}
+.fig1 {
+    font-size: 20px;
+}
+.ul1,
+.ol1 {
+    padding: 0;
+}
+.ul1 li,
+.ol1 li{
+    color: rgb(204, 0, 255);
+    list-style: none;
+    margin-top: 10px;
+}
+.fig2 {
+    font-size: 20px;
+}
+.ul2,
+.ol2 {
+    padding: 0;
+}
+.ul2 li,
+.ol2 li{
+    color: rgb(25, 169, 0);
+    list-style: none;
+    margin-top: 20px;
+}
+.fig3 {
+    font-size: 20px;
+}
+.ul3,
+.ol3 {
+    padding: 0;
+}
+.ul3 li,
+.ol3 li{
+    color: rgb(220, 51, 0);
+    list-style: none;
+    margin-top: 20px;
+}
